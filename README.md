@@ -1,27 +1,33 @@
 # Componentesuteis
+Esse projeto é um conjunto de componentes uteis para desenvolvimento web aonde eles foram pensados para serem o mais reutilizaveis o possivel
+## Home
+Pagina só com algumas explicações do projeto
+<img src="./src/assets/images/home.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+## Elementos
+Pagina com alguns elementos de estruturação de projetos
+<img src="./src/assets/images/elementos.png">
 
-## Development server
+## Coleções
+ Pagina só com alguns componentes que são fazem coleções de informações
+ ### Tabela
+ A tabela é formada a partir de dois jsons um com os headers e outro com os dados
+ ### Tabs
+Um componente que faz um mini-router ou seja tem uma navegação de componentes dentro dele 
+<img src="./src/assets/images/colecoes.png"> 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Views
+São componentes que fazem amostragem de visualizações ou de produtos, etc
+<img src="./src/assets/images/views.png">
 
-## Code scaffolding
+## Modos
+São componentes que fazem diferentes jeitos de visualizações como modais e accordions
+<img src="./src/assets/images/modos-0.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Modal
+<img src="./src/assets/images/modal.png">
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Accordion
+<img src="./src/assets/images/modos.png">
+<img src="./src/assets/images/modos-1.png">
+<img src="./src/assets/images/modos-2.png">
