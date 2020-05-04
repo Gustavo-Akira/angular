@@ -1,5 +1,6 @@
 # Componentesuteis
 Esse projeto é um conjunto de componentes uteis para desenvolvimento web aonde eles foram pensados para serem o mais reutilizaveis o possivel
+Quer ver o projeto em produção <a href="https://angular.gustavo-akira.now.sh/">Clique Aqui</a>
 ## Home
 Pagina só com algumas explicações do projeto
 <img src="./src/assets/images/home.png">
